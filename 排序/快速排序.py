@@ -21,3 +21,7 @@ def quick_sort(li, left, right):
 li = [5, 3, 4, 6, 7, 8, 9]
 quick_sort(li, 0, len(li) - 1)
 print(li)
+
+"""
+python 中存在最大递归次数限制：999，可以通过sys模块更改
+"""
