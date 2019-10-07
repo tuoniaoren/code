@@ -6,7 +6,11 @@
 目前的项目结构：
 ```python
 │  README.md
+│  tree.txt
 │  
+├─哈希表
+│      hash_table.py
+│      
 ├─排序
 │      bubbleSort.cpp
 │      bucket_sort.py
@@ -26,10 +30,24 @@
 │      选择排序.py
 │      
 ├─栈
+│      maze.py
 │      stack.py
+│      
+├─树
+│      bitree.py
+│      BST.py
+│      tree.py
+│      
+├─贪心算法
+│      change.py
+│      
+├─链表
+│      linklist.py
 │      
 ├─队列
 │      queue.py
+│      queue2.py
+│      test.txt
 │      
 └─顺序查找
         main.cpp
